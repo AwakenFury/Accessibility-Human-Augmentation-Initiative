@@ -2,6 +2,11 @@
   <img src="assests/ChatGPT Image Aug 5, 2026, 12_16_53 AM.png" width="100%" alt="ChatGPT Image Aug 5, 2026, 12_16_53 AM.png">
 </p>
 
+![Status](https://img.shields.io/badge/Status-Active-00C853)
+![Research](https://img.shields.io/badge/Research-Experimental-2979FF)
+![License](https://img.shields.io/badge/License-Custom-orange)
+![Platform](https://img.shields.io/badge/Platform-Cross--Platform-blue)
+
 # Accessibility & Human Augmentation Initiative
 
 The **Accessibility & Human Augmentation Initiative** explores how wearable computing, embedded artificial intelligence, biosignal interfaces, environmental sensing, and secure cyber-physical systems can enhance a person's ability to perceive and interact with their surroundings.
