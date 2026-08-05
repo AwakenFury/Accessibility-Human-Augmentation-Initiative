@@ -1,6 +1,5 @@
-<p align="center">
-  ![Accessibility-Human-Augmentation-Initiative](<assests/ChatGPT Image Aug 5, 2026, 12_16_53 AM.png>)
-</p>
+![Accessibility-Human-Augmentation-Initiative](<assests/ChatGPT Image Aug 5, 2026, 12_16_53 AM.png>)
+
 
 ![Status](https://img.shields.io/badge/Status-Active-00C853)
 ![Research](https://img.shields.io/badge/Research-Experimental-2979FF)
