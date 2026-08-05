@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assests/ChatGPT Image Aug 1, 2026, 08_11_54 PM.png" width="100%" alt="AI Exosuit MK-7 Banner">
+</p>
+
 # Accessibility & Human Augmentation Initiative
 
 The **Accessibility & Human Augmentation Initiative** explores how wearable computing, embedded artificial intelligence, biosignal interfaces, environmental sensing, and secure cyber-physical systems can enhance a person's ability to perceive and interact with their surroundings.
