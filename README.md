@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assests/ChatGPT Image Aug 5, 2026, 12_16_53 AM.png" width="100%" alt="ChatGPT Image Aug 5, 2026, 12_16_53 AM.png">
+  ![Accessibility-Human-Augmentation-Initiative](assests/ChatGPT Image Aug 5, 2026, 12_16_53 AM.png)
 </p>
 
 ![Status](https://img.shields.io/badge/Status-Active-00C853)
