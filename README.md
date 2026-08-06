@@ -1,6 +1,6 @@
 # Accessibility & Human Augmentation Initiative
 
-![Accessibility-Human-Augmentation-Initiative](<assets/ChatGPT Image Aug 5, 2026, 12_16_53 AM.png>)
+![Accessibility-Human-Augmentation-Initiative](<assets//ChatGPT Image Aug 5, 2026, 03_09_25 AM (1).png>)
 
 ![Status](https://img.shields.io/badge/Status-Active-00C853)
 ![Research](https://img.shields.io/badge/Research-Experimental-2979FF)
